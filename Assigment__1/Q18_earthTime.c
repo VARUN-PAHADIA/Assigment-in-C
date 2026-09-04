@@ -8,5 +8,5 @@ int main(){
     minutes= n/(60);
     printf("days=%d : hours=%d : minutes=%d", days , hours, minutes);
     
-
+return 0;
 }
